@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\New folder\ForthHomeWork\bin\Debug\netcoreapp3.1\ForthHomeWork.exe
+C:\Users\dell\Desktop\New folder\ForthHomeWork\bin\Debug\netcoreapp3.1\ForthHomeWork.deps.json
+C:\Users\dell\Desktop\New folder\ForthHomeWork\bin\Debug\netcoreapp3.1\ForthHomeWork.runtimeconfig.json
+C:\Users\dell\Desktop\New folder\ForthHomeWork\bin\Debug\netcoreapp3.1\ForthHomeWork.runtimeconfig.dev.json
+C:\Users\dell\Desktop\New folder\ForthHomeWork\bin\Debug\netcoreapp3.1\ForthHomeWork.dll
+C:\Users\dell\Desktop\New folder\ForthHomeWork\bin\Debug\netcoreapp3.1\ForthHomeWork.pdb
+C:\Users\dell\Desktop\New folder\ForthHomeWork\obj\Debug\netcoreapp3.1\ForthHomeWork.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\New folder\ForthHomeWork\obj\Debug\netcoreapp3.1\ForthHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\ForthHomeWork\obj\Debug\netcoreapp3.1\ForthHomeWork.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\New folder\ForthHomeWork\obj\Debug\netcoreapp3.1\ForthHomeWork.AssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\ForthHomeWork\obj\Debug\netcoreapp3.1\ForthHomeWork.dll
+C:\Users\dell\Desktop\New folder\ForthHomeWork\obj\Debug\netcoreapp3.1\ForthHomeWork.pdb
+C:\Users\dell\Desktop\New folder\ForthHomeWork\obj\Debug\netcoreapp3.1\ForthHomeWork.genruntimeconfig.cache
